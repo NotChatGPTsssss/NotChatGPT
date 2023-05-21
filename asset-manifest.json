@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/notchatgpt/static/css/main.2de0d3b8.chunk.css",
+    "main.js": "/notchatgpt/static/js/main.c66e55f0.chunk.js",
+    "main.js.map": "/notchatgpt/static/js/main.c66e55f0.chunk.js.map",
+    "runtime-main.js": "/notchatgpt/static/js/runtime-main.626a0b46.js",
+    "runtime-main.js.map": "/notchatgpt/static/js/runtime-main.626a0b46.js.map",
+    "static/js/2.15c129b5.chunk.js": "/notchatgpt/static/js/2.15c129b5.chunk.js",
+    "static/js/2.15c129b5.chunk.js.map": "/notchatgpt/static/js/2.15c129b5.chunk.js.map",
+    "index.html": "/notchatgpt/index.html",
+    "precache-manifest.be21d872c3543921eea2751f4175b9e8.js": "/notchatgpt/precache-manifest.be21d872c3543921eea2751f4175b9e8.js",
+    "service-worker.js": "/notchatgpt/service-worker.js",
+    "static/css/main.2de0d3b8.chunk.css.map": "/notchatgpt/static/css/main.2de0d3b8.chunk.css.map",
+    "static/js/2.15c129b5.chunk.js.LICENSE.txt": "/notchatgpt/static/js/2.15c129b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.626a0b46.js",
+    "static/js/2.15c129b5.chunk.js",
+    "static/css/main.2de0d3b8.chunk.css",
+    "static/js/main.c66e55f0.chunk.js"
+  ]
+}
